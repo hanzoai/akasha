@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="akasha" width="880"></p>
+
 # akasha [![NPM version][npm-img]][npm-url] [![Build Status][travis-img]][travis-url] [![Coverage Status][coveralls-img]][coveralls-url] [![Dependency Status][dependency-img]][dependency-url]
 Cross-browser storage with cookie-based fallback. Inspired by
 [store.js](https://github.com/marcuswestin/store.js/).
