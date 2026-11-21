@@ -1,6 +1,9 @@
 <p align="center"><img src=".github/hero.svg" alt="akasha" width="880"></p>
 
 # akasha [![NPM version][npm-img]][npm-url] [![Build Status][travis-img]][travis-url] [![Coverage Status][coveralls-img]][coveralls-url] [![Dependency Status][dependency-img]][dependency-url]
+
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/akasha&ref=master&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/akasha&ref=master&action=edit)
+
 Cross-browser storage with cookie-based fallback. Inspired by
 [store.js](https://github.com/marcuswestin/store.js/).
 
